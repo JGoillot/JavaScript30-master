@@ -2,7 +2,7 @@
 
 # JavaScript30
 
-I started this challenge with @[https://github.com/charlymartin](CharlyDev)
+I started this challenge with @[CharlyDev](https://github.com/charlymartin)
 
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge. 
 
