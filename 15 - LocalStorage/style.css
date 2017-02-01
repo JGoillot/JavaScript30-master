@@ -1,7 +1,7 @@
 
     html {
       box-sizing: border-box;
-      background:url('http://wes.io/hx9M/oh-la-la.jpg') center no-repeat;
+      background:url('https://images.unsplash.com/photo-1482062364825-616fd23b8fc1?dpr=2&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=') center no-repeat;
       background-size:cover;
       min-height:100vh;
       display:flex;
@@ -64,7 +64,7 @@
     }
 
     .plates input:checked + label:before {
-      content: '🌮';
+      content: '🚀';
     }
 
     .add-items {
